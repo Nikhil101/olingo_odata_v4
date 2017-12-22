@@ -1,0 +1,13 @@
+odata\service\OdataEntityProcessor.class
+odata\service\PersistenceManager.class
+odata\data\OdataDAOImpl.class
+odata\service\EdmProvider.class
+odata\util\Utils$1.class
+odata\service\OdataServiceFactory.class
+odata\service\OdataEntityCollectionProcessor.class
+odata\service\FilterExpressionVisitor.class
+odata\service\CustomDefaultProcessor.class
+odata\data\OdataDAO.class
+odata\service\Servlet.class
+odata\service\OdataPrimitiveProcessor.class
+odata\util\Utils.class
